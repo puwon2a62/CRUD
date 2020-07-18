@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "jsx": "react",
+    "module": "esnext",
+    "strict": true,
+    "target": "es2016",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+    "paths": {
+      "~*": [
+        "src/*"
+      ]
+    }
+  },
+  "include": [
+    "src/**/*"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}

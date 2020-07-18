@@ -1,0 +1,41 @@
+{
+  "name": "crud_proto",
+  "version": "1.0.0",
+  "description": "CRUD 기능 구현 프로토 페이지입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puwon2a62/CRUD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/puwon2a62/CRUD/issues"
+  },
+  "homepage": "https://github.com/puwon2a62/CRUD#readme",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "@types/react-redux": "^7.1.9",
+    "@types/react-router-dom": "^5.1.5",
+    "@types/styled-components": "^5.1.1",
+    "i18next": "^19.6.2",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-i18next": "^11.7.0",
+    "react-redux": "^7.2.0",
+    "react-router-dom": "^5.2.0",
+    "styled-components": "^5.1.1",
+    "styled-reset": "^4.2.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  }
+}
