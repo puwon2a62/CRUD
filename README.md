@@ -8,3 +8,4 @@ CRUD 기능 구현을 위한 프로토 페이지입니다.
 ## 개발 언어
 `typescript`를 주로 사용하였고 프레임워크로 `react`를 사용하였습니다.
 `styled-components`를 사용해 구조적인 css를 제작했습니다.
+다국어 처리를 위해 `react-i18next`를 사용하였습니다.
